@@ -1,5 +1,13 @@
 # lab2
 
+[![CI/CD Pipeline](https://github.com/SebastianBOT/lab2/actions/workflows/build.yml/badge.svg)](https://github.com/SebastianBOT/lab2/actions/workflows/build.yml)
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=SebastianBOT_lab2&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=SebastianBOT_lab2)
+
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=SebastianBOT_lab2&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=SebastianBOT_lab2)
+
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=SebastianBOT_lab2&metric=coverage)](https://sonarcloud.io/summary/new_code?id=SebastianBOT_lab2)
+
 Implementation of a Simple App with the next operations:
 
 
