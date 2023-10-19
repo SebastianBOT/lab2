@@ -130,7 +130,7 @@ jobs:
           aws_session_token: ${{ secrets.AWS_SESSION_TOKEN }}
           use_existing_version_if_available: false
           application_name: lab2-springboot
-          environment_name: lab2-springboot-env
+          environment_name: Lab2-springboot-env
           version_label: ${{github.SHA}}
           region: us-east-1
           deployment_package: lab2-0.0.1-SNAPSHOT.jar
